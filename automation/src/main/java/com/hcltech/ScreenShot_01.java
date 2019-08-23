@@ -33,7 +33,7 @@ public class ScreenShot_01 {
 	  
 	  File srcFile = ((TakesScreenshot)d).getScreenshotAs(OutputType.FILE);
 	  FileUtils.copyFile(srcFile, new File("/home/utsav-pc/Downloads/Copy File/s1.png"));
-	  //Maven Automation
+	  //Maven Automation_1
 	  
   }
 }
